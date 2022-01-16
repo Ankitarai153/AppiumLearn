@@ -1,0 +1,3 @@
+Setup Type: Standard
+SDK Folder: C:\Users\91870\AppData\Local\Android\Sdk
+JDK Location: C:\Program Files\Android\Android Studio\jre (Note: Gradle may be using JAVA_HOME when invoked from command line. More info...)
